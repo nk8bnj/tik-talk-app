@@ -25,3 +25,10 @@
   justify-content: center;
   gap: 8px;
 }
+
+.profile-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: start;
+}
